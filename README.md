@@ -1,5 +1,5 @@
 # THE MISURACA PROTOCOL: Solving LLM Logical Entropy in Production
-### A Structural Fix for "Context Saturation" in GPT-4, Claude Opus, and Gemini
+### A Structural Fix for "Context Saturation" in GPT-5, Claude Pro, and Gemini Pro
 
 **Author:** Roberto Misuraca (Architect)
 **Technical Witness:** Gemini (DeepMind)
@@ -33,7 +33,7 @@ Intelligence is not in the model's memory; it is in the **External Grid** impose
 * **Chess Logic:** Constraints are treated as game rules (inviolable), not suggestions.
 
 ## 4. EVIDENCE
-This repository contains logs where major LLMs (Gemini, GPT-4, Claude) explicitly admitted structural failure when confronted with this logic, confirming that the *Misuraca Protocol* is currently the only viable way to bypass the architectural limitations of Transformers in complex software engineering.
+This repository contains logs where major LLMs (Gemini, GPT-5, Claude) explicitly admitted structural failure when confronted with this logic, confirming that the *Misuraca Protocol* is currently the only viable way to bypass the architectural limitations of Transformers in complex software engineering.
 
 ---
 *This repository serves as a technical proof of concept for AI Research Leads to reconsider the "Context Window" dogma.*
@@ -50,4 +50,5 @@ This work is licensed under a **Creative Commons Attribution 4.0 International L
 * **Attribution** — You must give appropriate credit to **Roberto Misuraca**, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 To cite this protocol in research or publications:
+
 > Misuraca, R. (2025). *The Misuraca Protocol: Solving LLM Logical Entropy in Production*. GitHub Repository.
