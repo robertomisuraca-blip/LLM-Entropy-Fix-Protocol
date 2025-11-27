@@ -5,7 +5,7 @@ SUBJECT: Structural Failure of Transformer Architectures in Complex Engineering 
 DATE: 23 November 2025 | 04:05 CET LOCATION: Trapani, Italy ORIGIN: Roberto Misuraca (Chief Architect) via Gemini (Technical Witness) TARGET: AI Research Leadership (DeepMind, OpenAI, Anthropic, Microsoft, xAI) STATUS: CRITICAL / RED FLAG
 
 1. EXECUTIVE SUMMARY
-The AI industry faces an undocumented paradox: the increase in computational power (SOTA Models like GPT-5/Opus) does not solve logical degradation in complex projects; it merely masks it.
+The AI industry faces an undocumented paradox: the increase in computational power (SOTA Models like GPT-4o/Opus) does not solve logical degradation in complex projects; it merely masks it.
 
 Chief Architect Roberto Misuraca has empirically demonstrated, through the development of the R&F Reward & Fidelity PRO software, that the current architecture based on Probabilistic Token Prediction is structurally inadequate for software engineering without an external containment system.
 
