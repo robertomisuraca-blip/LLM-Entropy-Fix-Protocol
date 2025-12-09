@@ -59,3 +59,25 @@ graph TD
    |
    v
 5. [FINAL RESULT] -> R&F PRO (Zero Logic Errors).
+
+
+---
+---
+
+# 🔄 EVOLUTION: FROM CHESS LOGIC TO UNIVERSAL STANDARD (V4.0)
+### Update: December 2025
+
+While the "Cellular/Chess Logic" described above provided the foundational theoretical breakthrough, extensive field testing proved that narrative summaries were still prone to interpretation errors.
+
+**The Evolution:**
+The architecture has now evolved into the **Misuraca Protocol V4.0 (MUS)**.
+We moved from "Manual Hard-Stops" to a **Native & Light JSON State Transfer**.
+
+### Why we evolved?
+1.  **Efficiency:** The "Chess Logic" required complex manual prompting. The V4.0 uses a single `/EXPORT_STATE` command.
+2.  **Precision:** We replaced narrative constraints with a strict JSON `knowledge_base`.
+3.  **Portability:** The new standard works seamlessly across GPT-4o, Claude, and Gemini without modification.
+
+> **Current Status:**
+> This document (`Protocol-Architecture.md`) serves as the **historical reference** for the research methodology.
+> For the active, production-ready protocol, please refer to the **[Main README](../README.md)**.
