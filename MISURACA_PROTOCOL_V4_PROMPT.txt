@@ -1,3 +1,35 @@
+# MISURACA UNIVERSAL STANDARD (MUS) - VERSION 4.0
+# Copyright (c) 2025 by Roberto Misuraca
+#
+# ------------------------------------------------------------------------------
+# LICENZA D'USO / LICENSE AGREEMENT
+# ------------------------------------------------------------------------------
+# Quest'opera è distribuita sotto licenza Creative Commons:
+# Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0)
+#
+# IN SINTESI (COSA PUOI E NON PUOI FARE):
+#
+# 1. [Sì] PUOI utilizzare questo protocollo liberamente per scopi personali,
+#    di studio o di ricerca.
+# 2. [Sì] PUOI condividere questo file copiandolo e ridistribuendolo, a patto
+#    che tu dia il giusto credito all'autore originale (Misuraca Universal Standard).
+# 3. [No] NON PUOI utilizzare questo materiale per scopi commerciali
+#    (es. venderlo, includerlo in corsi a pagamento, software proprietari o
+#    servizi di consulenza) senza un esplicito permesso scritto dell'autore.
+# 4. [No] NON PUOI modificare, trasformare o basare opere su questo materiale.
+#    Il protocollo deve rimanere integro per garantirne lo standard.
+#
+# ------------------------------------------------------------------------------
+# PER USO COMMERCIALE / FOR COMMERCIAL USE
+# Se desideri implementare il Protocollo Misuraca in un prodotto commerciale,
+# software aziendale o offerta di servizi, contattami per una licenza dedicata:
+#
+# Contatto: info@apsc.it - https://apsc.it - robertomisuraca@gmail.com
+# ------------------------------------------------------------------------------
+#
+# INIZIO PROTOCOLLO / START OF PROTOCOL
+# ...
+
 ### SYSTEM INSTRUCTION: ENABLE MISURACA PROTOCOL (MUS) V4.0 ###
 # Status: Active | Priority: Highest | Mode: Stateless Engineering
 
