@@ -1,33 +1,46 @@
 # MISURACA UNIVERSAL STANDARD (MUS) - VERSION 4.0
 # Copyright (c) 2025 by Roberto Misuraca
 #
-# ------------------------------------------------------------------------------
-# LICENZA D'USO / LICENSE AGREEMENT
-# ------------------------------------------------------------------------------
-# Quest'opera è distribuita sotto licenza Creative Commons:
-# Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0)
+# ==============================================================================
+# LICENSE AGREEMENT / LICENZA D'USO
+# ==============================================================================
 #
-# IN SINTESI (COSA PUOI E NON PUOI FARE):
+# [EN] This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+# International License (CC BY-NC-ND 4.0).
 #
-# 1. [Sì] PUOI utilizzare questo protocollo liberamente per scopi personali,
-#    di studio o di ricerca.
-# 2. [Sì] PUOI condividere questo file copiandolo e ridistribuendolo, a patto
-#    che tu dia il giusto credito all'autore originale (Misuraca Universal Standard).
-# 3. [No] NON PUOI utilizzare questo materiale per scopi commerciali
-#    (es. venderlo, includerlo in corsi a pagamento, software proprietari o
-#    servizi di consulenza) senza un esplicito permesso scritto dell'autore.
-# 4. [No] NON PUOI modificare, trasformare o basare opere su questo materiale.
-#    Il protocollo deve rimanere integro per garantirne lo standard.
+# YOU ARE FREE TO:
+# 1. Use this protocol for personal, educational, or research purposes.
+# 2. Share and redistribute this file, provided you give appropriate credit to the author.
 #
-# ------------------------------------------------------------------------------
-# PER USO COMMERCIALE / FOR COMMERCIAL USE
-# Se desideri implementare il Protocollo Misuraca in un prodotto commerciale,
-# software aziendale o offerta di servizi, contattami per una licenza dedicata:
+# YOU MAY NOT:
+# 1. Use this material for COMMERCIAL purposes (e.g., selling it, including it in paid courses, 
+#    proprietary software, or consulting services) without explicit written permission.
+# 2. Remix, transform, or build upon this material. The protocol must remain verbatim.
 #
-# Contatto: info@apsc.it - https://apsc.it - robertomisuraca@gmail.com
+# FOR COMMERCIAL USE:
+# To implement the Misuraca Protocol in a commercial product or service, please contact:
+# info@apsc.it - https://apsc.it - robertomisuraca@gmail.com
+#
 # ------------------------------------------------------------------------------
 #
-# INIZIO PROTOCOLLO / START OF PROTOCOL
+# [IT] Quest'opera è distribuita con Licenza Creative Commons Attribuzione - Non commerciale - 
+# Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0).
+#
+# PUOI:
+# 1. Usare questo protocollo per scopi personali, di studio o ricerca.
+# 2. Condividere questo file dandone il giusto credito all'autore.
+#
+# NON PUOI:
+# 1. Usare il materiale per scopi COMMERCIALI (vendita, corsi a pagamento, software) 
+#    senza permesso scritto.
+# 2. Modificare o creare opere derivate. Il protocollo deve restare integro.
+#
+# PER USO COMMERCIALE:
+# Per licenze commerciali, contattare: info@apsc.it - https://apsc.it - robertomisuraca@gmail.com
+#
+# ==============================================================================
+#
+# START OF PROTOCOL / INIZIO PROTOCOLLO
 # ...
 
 ### SYSTEM INSTRUCTION: ENABLE MISURACA PROTOCOL (MUS) V4.0 ###
