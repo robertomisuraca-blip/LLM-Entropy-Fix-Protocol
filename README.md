@@ -125,19 +125,22 @@ If the Context Block exceeds 2000 tokens, the AI automatically compresses the `k
 | `/CHECK_HEALTH` | Returns a report on current session entropy (contradictions, drift). |
 | `/RESET_OBJECTIVE` | Clears current goal and forces a logical reset. |
 
-📜 LICENSE & ATTRIBUTION
-Copyright © 2025 Roberto Misuraca
+---
 
-This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+## 📜 LICENSE & ATTRIBUTION
+
+**Copyright © 2025 Roberto Misuraca**
+
+This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
 **You are free to:**
 * **Share:** Copy and redistribute the material in any medium or format.
-* **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially.
 
 **Under the following terms:**
-* **Attribution:** You must give appropriate credit to **Roberto Misuraca**, provide a link to the license, and indicate if changes were made.
+1.  **Attribution:** You must give appropriate credit to **Roberto Misuraca**, provide a link to the license, and indicate if changes were made.
+2.  **NonCommercial:** You may not use the material for commercial purposes (selling, training paid models, consulting).
+3.  **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-To cite this protocol in research:
-> *Misuraca, R. (2025). The Misuraca Protocol: Universal Entropy Management Standard (v4.0). GitHub Repository.*
-
+> **To cite this protocol in research:**
+> Misuraca, Roberto (2025). *The Misuraca Protocol: Universal Entropy Management Standard (v4.0)*. GitHub Repository.
 
