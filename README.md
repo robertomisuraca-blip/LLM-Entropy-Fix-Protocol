@@ -1,12 +1,20 @@
-## Licenza
-Questo progetto (Misuraca Universal Standard V4) è concesso in licenza sotto **CC BY-NC-ND 4.0**.
+## License / Licenza
 
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it)
+This project is licensed under the **CC BY-NC-ND 4.0** (Attribution-NonCommercial-NoDerivatives).
 
-**Nota bene:** Questo standard è progettato per essere universale e immutabile.
-* È vietato l'uso commerciale senza autorizzazione.
-* È vietata la modifica del protocollo per garantire la consistenza dei risultati.
-* Per licenze commerciali o integrazioni Enterprise, contattare: info@apsc.it - robertomisuraca@gmail.com - https://apsc.it
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+**[EN] Note:** This is a Universal Standard.
+* **Commercial use is strictly prohibited** without a specific license.
+* **Modifications are prohibited** to ensure the integrity of the standard.
+* For commercial inquiries: info@apsc.it - robertomisuraca@gmail.com - https://apsc.it
+
+---
+
+**[IT] Nota:** Questo è uno Standard Universale.
+* **L'uso commerciale è vietato** senza una licenza specifica.
+* **Le modifiche sono vietate** per garantire l'integrità dello standard.
+* Per richieste commerciali: info@apsc.it - robertomisuraca@gmail.com - https://apsc.it
 
 # 🛡️ THE MISURACA PROTOCOL (MUS)
 ### Universal Entropy Management Standard for LLMs
@@ -131,4 +139,5 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 To cite this protocol in research:
 > *Misuraca, R. (2025). The Misuraca Protocol: Universal Entropy Management Standard (v4.0). GitHub Repository.*
+
 
