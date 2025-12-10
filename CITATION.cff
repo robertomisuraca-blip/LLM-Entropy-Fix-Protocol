@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as follows."
+title: "Misuraca Universal Standard (MUS)"
+authors:
+  - family-names: "MISURACA"
+    given-names: "ROBERTO"
+version: 4.0.0
+date-released: 2025-12-10
+license: CC-BY-NC-ND-4.0
+url: "https://github.com/robertomisuraca-blip/LLM-Entropy-Fix-Protocol"
+abstract: "The Misuraca Universal Standard (MUS) is an advanced prompt engineering protocol designed for consistent and high-quality LLM outputs."
+keywords:
+  - prompt-engineering
+  - llm-protocol
+  - standard
+  - ai-alignment
